@@ -34,3 +34,4 @@ E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-wi
 E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
 E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
 E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\FFMediaToolkit.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.sourcelink.json

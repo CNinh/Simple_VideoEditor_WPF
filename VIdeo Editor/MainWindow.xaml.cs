@@ -96,7 +96,7 @@ namespace VIdeo_Editor
                     catch (Exception ex)
                     {
                         // Xử lý ngoại lệ nếu có
-                        MessageBox.Show($"Lỗi trong quá trình thực thi FFmpeg: {ex.Message}");
+                        MessageBox.Show($"Error executing FFmpeg: {ex.Message}");
                     }
                 }
             });
@@ -107,7 +107,7 @@ namespace VIdeo_Editor
             // Kiểm tra xem video đã được tải lên chưa
             if (videoPreview.Source == null)
             {
-                MessageBox.Show("Vui lòng chọn video trước khi cắt.");
+                MessageBox.Show("Please select a file to split.");
                 return;
             }
 
@@ -157,7 +157,7 @@ namespace VIdeo_Editor
                 File.Delete(outputFilePath2);
             };
 
-            MessageBox.Show("Cắt Thành công");
+            MessageBox.Show("Video has been cut.");
         }
 
         private void Video1_MediaOpened(object sender, RoutedEventArgs e)
@@ -188,6 +188,30 @@ namespace VIdeo_Editor
         private void pauseV2_Click(object sender, RoutedEventArgs e)
         {
             video2.Pause();
+        }
+
+        private void saveBtn_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "MP4 File (*.mp4)|*.mp4|All Files (*.*)|*.*";
+            saveFileDialog.FileName = "output";
+
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                string outputPath1 = saveFileDialog.FileName.Replace(".mp4", "_part1.mp4");
+                string outputPath2 = saveFileDialog.FileName.Replace(".mp4", "_part2.mp4");
+
+                try
+                {
+                    File.Move(outputFilePath1, outputPath1);
+                    File.Move(outputFilePath2, outputPath2);
+                    MessageBox.Show("Videos saved successfully");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Error saving videos: {ex.Message}");
+                }
+            }
         }
 
         //private void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
