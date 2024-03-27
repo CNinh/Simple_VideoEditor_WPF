@@ -1,0 +1,36 @@
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.csproj.AssemblyReference.cache
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\App.g.cs
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor_MarkupCompile.cache
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor_MarkupCompile.lref
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\VIdeo Editor.exe
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\VIdeo Editor.deps.json
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\VIdeo Editor.runtimeconfig.json
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\VIdeo Editor.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\VIdeo Editor.pdb
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\FFmpeg.AutoGen.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\libvideo.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\MainWindow.baml
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.g.resources
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.AssemblyInfoInputs.cache
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.AssemblyInfo.cs
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.csproj.CoreCompileInputs.cache
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.csproj.CopyComplete
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\refint\VIdeo Editor.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.pdb
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\VIdeo Editor.genruntimeconfig.cache
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\obj\Debug\net6.0-windows\ref\VIdeo Editor.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\Aspose.PDF.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\FPT\4th Year\PRN221\Assignments\VIdeo Editor\VIdeo Editor\bin\Debug\net6.0-windows\FFMediaToolkit.dll
